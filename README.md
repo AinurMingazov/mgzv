@@ -8,12 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=mgzv&style=flat-square&color=blue" alt=""/>
 
 
-- 🔭 В начале 2021 года я познакомился с языком Python прочитав книгу 
-"Изучаем Python" Эрика Метиза.
-Далее изучая язык и технологии я находил им всё большее применение в работе и жизни.
-Так же я проходил курсы на Stepik и Udemy, читал книги о различных технологиях и смотрел видео на YouTube.
-
-- 🌱 Сейчас я Python Backend Developer.
+- 🌱 Python Backend Developer.
 В работе используем стэк технологий:
 Django, GraphQL, Strawberry, PostgreSQL, Docker, Redis, Celery и др...
 
@@ -22,16 +17,6 @@ Django, GraphQL, Strawberry, PostgreSQL, Docker, Redis, Celery и др...
 ---
 ### Hi! I'm Ainur
 
-I'm a Python developer.
-
-- 🔭 At the beginning of 2021, I got acquainted with the Python language by reading a book
-"Learning Python" by Eric Metiz.
-Further studying the language and technology, I found them increasingly used in work and life.
-I also took courses on Stepik and Udemy, read books about various technologies and watched videos on YouTube.
-
-
-I am currently a Python Backend Developer.
-In our work we use a stack of technologies
 
 - 🌱 I am currently a Python Backend Developer.
 In our work we use a stack of technologies:
